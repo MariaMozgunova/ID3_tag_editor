@@ -21,7 +21,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This app edits and reads ID3v2 tags from mp3 files. App works from a cmd / terminal.
+This app edits and reads ID3v2 tags from mp3 files. The app works from a cmd/terminal.
 
 **Now only APIC and text frames are supported**
 
