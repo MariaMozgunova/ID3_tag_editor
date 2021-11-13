@@ -38,9 +38,10 @@ Clone the repo with `git clone https://github.com/MariaMozgunova/ID3_tag_editor.
 ## Usage
 
 Valid parameters for the program:
+* `--filepath=<path>` - specify file to work with
 * `--show` - shows all metadata in ID3v2 tag
-* `--set=name --value=value` - sets frame with frame ID `name` equal to value `value`
-* `--get=name` - shows frame with frame ID equl to `name`
+* `--set=<name> --value=<value>` - sets frame with frame ID `name` equal to value `value`
+* `--get=<name>` - shows frame with frame ID equl to `name`
 
 Eample of usage: `mp3_meta_data_editor.exe --filepath=song.mp3 --set=TIT2 --value="Song name"`
 
